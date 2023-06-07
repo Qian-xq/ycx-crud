@@ -7,7 +7,10 @@
 1. 依靠现有依赖
 1. 实现以上功能，并写出对应单元测试
 1. 无BUG，即为通过;
-
+1. jdk17默认设置就是JVM最优化设置，再也不用JVM调优
+   -- 请用jdk17完成项目
+1. 2020年6月，Spring Boot团队宣布将他们的build迁移到了Gradle
+   -- 请用gradle来构建项目
 # 注意
 - 不要更改JDK版本
 - 必须使用gradle且build.gradle不可更改
